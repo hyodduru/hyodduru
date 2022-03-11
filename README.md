@@ -28,17 +28,17 @@ Here are some ideas to get you started:
  <img src ="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=black">
  <img src ="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=black">
 </p>
-<img src ="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/Joowon0220/TODO-List">
-<img src="">
-[![REACT]() [![NODE](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black)](github.com/Joowon0220/TODO-List)
+<img src ="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black">
+
 </p>
 <br />
 <br />
 <br />
 <h3 align = "center">👉 ME 👈</h3>
 <p align ="center">
- <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black)](github.com/Joowon0220/TODO-List">
- <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black)](github.com/Joowon0220/TODO-List">
+ <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black">
+ <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black">
 </p>
  
  
