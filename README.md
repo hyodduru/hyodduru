@@ -23,10 +23,9 @@ Here are some ideas to get you started:
  <br/>
  <br/>
  <h3 align ="center">🌹 TECH 🌹</h3>
- = = = = = = = = = = = = = = = = = = = 
+<div align ="center">- - - - - - - - - - - - - - - - - - - - -</div>
  <h3 align ="center">🌹 TECH 🌹</h3>
-  = = = = = = = = = = = = = = = = = = =
- <p align= "center">
+<div align ="center">- - - - - - - - - - - - - - - - - - - - -</div>
  <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&fontAlign=50">
  <img src ="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=black">
  <img src ="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=black">
