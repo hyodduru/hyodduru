@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
  <h3 align ="center">🌹 TECH 🌹</h3>
 <div align ="center">- - - - - - - - - - - - - - - - - - - - -</div>
+<br>
 <p align="center">
  <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black&fontAlign=50">
  <img src ="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=black">
@@ -41,6 +42,7 @@ Here are some ideas to get you started:
 <br />
 <h3 align = "center">👉 ME 👈</h3>
 <div align ="center">- - - - - - - - - - - - - - - - - - - - -</div>
+<br>
 <p align ="center">
  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black">
  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black">
