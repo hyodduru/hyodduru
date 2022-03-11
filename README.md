@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align ="center">
 <header align ="center" ><img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&width=100%&section=header&text=Hyodduru's%20Code%20Pallete🎨%20&fontSize=60"></header>
-
+</div>
  
  
  
