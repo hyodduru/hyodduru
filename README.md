@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h1 align = "center">👉 About Me 👈</h1>
 <br>
 <h4 align = "center">
- I'm a passionate learner loving learning new things and working together with people🙋‍♀️<br><br>
+A passionate learner loving learning new things and working together with people🙋‍♀️<br><br>
 A frontend web developer who wants to live a life where always challenge myself🦋
 </h4>
  
