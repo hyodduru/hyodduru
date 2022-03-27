@@ -65,4 +65,8 @@ A frontend web developer who wants to live a life where always challenge myself.
  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black">
  <a href= "https://velog.io/@hoje15v" ><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"></a>
 </div>  
+
+<br />
+<br />
+<br />
  
