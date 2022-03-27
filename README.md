@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <h1 align = "center">👉 About Me 👈</h1>
 <br>
-<p align = "center">
-## I'm a passionate learner loving learning new things and working together with people🙋‍♀️.**<br><br>
-## A frontend web developer who wants to live a life where always challenge myself.🦋
-</p>
+<h4 align = "center">
+ I'm a passionate learner loving learning new things and working together with people🙋‍♀️.**<br><br>
+A frontend web developer who wants to live a life where always challenge myself.🦋
+</h4>
  
 <br>
 <br>
@@ -57,6 +57,9 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=hyodduru&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div> 
 
+<br />
+<br />
+<br />
 <div align="center">
 <h1>Connect with me</h1>
  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black">
