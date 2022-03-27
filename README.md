@@ -41,10 +41,9 @@ Here are some ideas to get you started:
 <br />
 <h1 align = "center">👉 About Me 👈</h1>
 <br>
-### I'm a passionate learner loving learning new things and working together with people🙋‍♀️. <br>
-### A frontend web developer who wants to live a life where always challenge myself.
-<p align ="center">
-
+<p align = "center">
+** I'm a passionate learner loving learning new things and working together with people🙋‍♀️. **<br><br>
+** A frontend web developer who wants to live a life where always challenge myself.🦋**
 </p>
  
 <br>
