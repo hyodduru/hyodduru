@@ -40,12 +40,13 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
-<h1 align = "center">👉 Contact Me 👈</h1>
+<h1 align = "center">👉 About Me 👈</h1>
 <div align ="center">- - - - - - - - - - - - - - - - - - - - -</div>
 <br>
+I'm a passionate learner loving learning new things and working together with people. 
+A frontend web developer who wants to live a life where always challenge myself.
 <p align ="center">
- <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black">
- <a href= "https://velog.io/@hoje15v" ><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"></a>
+
 </p>
  
 <br>
