@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  <br/>
 
 
- <h3 align ="center">🌹 TECH 🌹</h3>
+ <h1 align ="center">🌹 TECH 🌹</h1>
 <div align ="center">- - - - - - - - - - - - - - - - - - - - -</div>
 <br>
 <p align="center">
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
-<h3 align = "center">👉 ME 👈</h3>
+<h1 align = "center">👉 Contact Me 👈</h1>
 <div align ="center">- - - - - - - - - - - - - - - - - - - - -</div>
 <br>
 <p align ="center">
@@ -55,5 +55,11 @@ Here are some ideas to get you started:
 <div align="center">
 <h1>Github Stats</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=hyodduru&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div> 
+
+<div align="center">
+<h1>Connect with me</h1>
+ <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black">
+ <a href= "https://velog.io/@hoje15v" ><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"></a>
 </div>  
  
