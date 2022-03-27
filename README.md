@@ -24,6 +24,18 @@ Here are some ideas to get you started:
  <br/>
 
 
+
+<h1 align = "center">👉 About Me 👈</h1>
+<br>
+<p align = "center">
+## I'm a passionate learner loving learning new things and working together with people🙋‍♀️.**<br><br>
+## A frontend web developer who wants to live a life where always challenge myself.🦋
+</p>
+ 
+<br>
+<br>
+<br>
+
  <h1 align ="center">🌹 TECH 🌹</h1>
 <br>
 <p align="center">
@@ -39,16 +51,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
-<h1 align = "center">👉 About Me 👈</h1>
-<br>
-<p align = "center">
-**I'm a passionate learner loving learning new things and working together with people🙋‍♀️.**<br><br>
-**A frontend web developer who wants to live a life where always challenge myself.🦋**
-</p>
- 
-<br>
-<br>
-<br>
 
 <div align="center">
 <h1>Github Stats</h1>
