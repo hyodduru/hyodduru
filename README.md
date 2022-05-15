@@ -45,7 +45,13 @@ A frontend web developer who wants to live a life where always challenge myself�
 </p>
 <p align="center">
 <img src ="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
-
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Scss(Sass)-CC6699?style=flat&logo=sass&logoColor=white"/>
+</p>
+<br><br>
+ <h1 align ="center">🛠 Cowork Tools 🛠</h1>
+ <p align="center">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 <br />
 <br />
