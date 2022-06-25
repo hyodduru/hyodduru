@@ -45,9 +45,10 @@ A frontend web developer who wants to live a life where always challenge myselfð
 </p>
 <p align="center">
 <img src ="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
+   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TYPESCRIPT&logoColor=white"/>
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
  <img src="https://img.shields.io/badge/Scss(Sass)-CC6699?style=flat&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TYPESCRIPT&logoColor=white"/>
+
 <br><br>
 </p>
 <br><br>
