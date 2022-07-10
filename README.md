@@ -70,8 +70,8 @@ A frontend web developer who wants to live a life where always challenge myselfð
 <br />
 <div align="center">
 <h1>Connect with me ðŸ“§</h1>
- <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"> : hoje15v@gmail.com
- <a href= "https://velog.io/@hoje15v" ><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"></a>
+ <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"> | hoje15v@gmail.com <br />
+ <a href= "https://velog.io/@hoje15v" ><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"></a> | https://velog.io/@hoje15v
 </div>  
 
 <br />
