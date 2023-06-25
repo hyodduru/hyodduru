@@ -61,14 +61,6 @@ A frontend web developer who wants to live a life where always challenge myself�
 <br />
 
 <div align="center">
-<h1>Github Status 📈</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=hyodduru&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div> 
-
-<br />
-<br />
-<br />
-<div align="center">
 <h1>Connect with me 📧</h1>
  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"> | hoje15v@gmail.com <br />
  <a href= "https://velog.io/@hoje15v" ><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"></a> | https://velog.io/@hoje15v
